@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="110" started-at="2021-08-02T02:38:28Z" finished-at="2021-08-02T02:38:28Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="110" started-at="2021-08-02T02:38:28Z" finished-at="2021-08-02T02:38:28Z">
+      <class name="RSA.RSA_Maven.AppiumTest">
+        <test-method status="PASS" signature="c_startAppium()[pri:0, instance:RSA.RSA_Maven.AppiumTest@1593948d]" name="c_startAppium" duration-ms="26" started-at="2021-08-02T02:38:28Z" finished-at="2021-08-02T02:38:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c_startAppium -->
+        <test-method status="PASS" signature="d_endAppium()[pri:0, instance:RSA.RSA_Maven.AppiumTest@1593948d]" name="d_endAppium" duration-ms="0" started-at="2021-08-02T02:38:28Z" finished-at="2021-08-02T02:38:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d_endAppium -->
+      </class> <!-- RSA.RSA_Maven.AppiumTest -->
+      <class name="RSA.RSA_Maven.SeleniumTest">
+        <test-method status="PASS" signature="a_startBrowser()[pri:0, instance:RSA.RSA_Maven.SeleniumTest@4cc0edeb]" name="a_startBrowser" duration-ms="1" started-at="2021-08-02T02:38:28Z" finished-at="2021-08-02T02:38:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a_startBrowser -->
+        <test-method status="PASS" signature="b_endBrowser()[pri:0, instance:RSA.RSA_Maven.SeleniumTest@4cc0edeb]" name="b_endBrowser" duration-ms="1" started-at="2021-08-02T02:38:28Z" finished-at="2021-08-02T02:38:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b_endBrowser -->
+      </class> <!-- RSA.RSA_Maven.SeleniumTest -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
